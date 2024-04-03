@@ -1,0 +1,30 @@
+# Goal is to Identify or gather below information orthings : 
+1. IP Address
+2. Hidden Directories
+3. Names 
+4 email addresses
+5.Physical Addresses
+6.Web technologies used
+
+# Files which may be usefull for us : 
+robots.txt =
+ 	robots.txt is file which tells a search engine not to list the contens of file on the search results.
+
+sitemap.xml = 
+ 	sitemap.xml is file which keeps records of publically accessible files/folders organized
+
+
+# Browser plugins : 
+
+firefox : 1) built with : Tells what is running on the site.
+ 	    2) wappalyzer 
+
+
+
+# CLI TOOLS : 
+
+ 	1) whatweb utility
+
+
+# HTTRACK (GUI tool for windows and linux) :  
+ 	A website copier which lets you to download the website on your local machine for you to analyze it offline
