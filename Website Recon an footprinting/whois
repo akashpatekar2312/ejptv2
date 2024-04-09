@@ -1,4 +1,0 @@
-whois a query response protocol to get information about Domain name , IP address block and Registrar.
-
-
-example : whois google.com or whois <target ip address> 
