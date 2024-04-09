@@ -28,3 +28,45 @@ firefox : 1) built with : Tells what is running on the site.
 
 # HTTRACK (GUI tool for windows and linux) :  
  	A website copier which lets you to download the website on your local machine for you to analyze it offline
+####################################################################################################################
+
+Whois: 
+
+whois a query response protocol to get information about Domain name , IP address block and Registrar.
+
+
+example : whois google.com or whois <target ip address> 
+
+######################################################################################################################
+
+Netcraft :  
+Netcraft is a great website to footprint everything 
+
+You should try it
+######################################################################################################################
+Dnsrecon :
+
+dns recon is commandline tool which is preinstalled in kali linux
+
+dnsrecon -d google.com
+
+
+Dnsdumpster - A great website for dns reconnaissance
+#########################################################################################################################
+
+Wafw00f: 
+
+wafw00f is used to identify if a website is behind the firewall or not. For better results you have to tweak the flags used in comman.
+############################################################################################################################
+theHarvester : 
+
+The Harvester is a great command line tool for osint and email harveting which gathers emails from various search engines and social sites like google,linkedin.
+
+We can use gathered inormation to password sparaying and to look in leaked passwords for the said emails
+
+#################################################################################################################################
+haveIbeenpawned : 
+
+1) site : haveibeenpawned.com
+
+
